@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://maimeearai:maimeearai@oauth2-yaflr.mongodb.net/test?retryWrites=true&w=majority"
+}
